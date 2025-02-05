@@ -1,1 +1,1 @@
-# SELAB2
+# SELAB2 software engineering lab
